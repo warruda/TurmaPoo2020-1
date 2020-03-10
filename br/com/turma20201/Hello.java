@@ -4,7 +4,7 @@
 package br.com.turma20201;
 
 /**
- * @author wosle
+ * @author wosley arruda
  *
  */
 public class Hello {
